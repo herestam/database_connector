@@ -23,8 +23,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/your-user/database-connector"
-Repository = "https://github.com/your-user/database-connector"
+Homepage = "https://github.com/herestam/database_connector"
+Repository = "https://github.com/herestam/database_connector"
 
 [project.optional-dependencies]
 dev = ["pytest>=7.0"]
